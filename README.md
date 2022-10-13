@@ -6,8 +6,12 @@ To convince business shark W. Avy, I created a business plan for Surf n' Shake S
 ## June Temperature Analysis
 After running an analysis of over 1,700 recorded data points for the month of June through a 17 year period, it can be seen that there is not a great deal of temperature variations. The record low was 64 degrees, and the record high was 85 degrees. These are considered outliers, as the average temperature is 74 degrees.
 
+![June_temp_stats_summary](https://user-images.githubusercontent.com/111100908/195511043-bead3e6d-c6f2-45c7-b8fc-ee784a368c6b.png)
 ## December Temperature Analysis
 After running the same analysis in December, the temperatures and averages are very similar to June. The record low was 56 degrees, the record high was 83 degrees, with an average of 71 degrees.
+
+![Dec_temps_stats_summary](https://user-images.githubusercontent.com/111100908/195511096-7cefd726-298b-4981-861a-44f6acc48000.png)
+
 
 ## Summary
 While comparing the analysis for June and December, W. Avy and I can conclude that on average, the temperature does not fluctuate severely. The record highs and lows are still within about 20 degrees of each other, in the most severe instances.
